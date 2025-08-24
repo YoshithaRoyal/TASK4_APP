@@ -1,0 +1,4 @@
+package fcm
+
+class MyFireBAseMessagingService {
+}
